@@ -1,29 +1,28 @@
-# Evidence Preservation & Forensics
+# 🔍 Evidence Preservation & Forensics
 
-## Overview
+Guidance on preserving digital evidence for forensic investigations, legal proceedings, and regulatory investigations.
 
-This document provides guidance on preserving digital evidence for forensic investigations, legal proceedings, and regulatory investigations.
+---
 
-## Legal Hold Requirements
+## ⛔ Legal Hold Requirements
 
-### Immediate Actions
-
+**Immediate Actions**:
 1. **Issue Legal Hold Notice**
    - Preserve all potentially relevant data
-   - Halt any normal data retention/deletion procedures
+   - Halt normal data retention/deletion procedures
    - Document all preservation actions
-   - Communicate preservation requirements to all staff
+   - Communicate requirements to all staff
 
 2. **Identify Evidence Sources**
    - Server logs (application, system, security)
    - Database transaction logs
    - Email systems and messaging platforms
-   - Endpoint data (workstations, laptops, mobile devices)
+   - Endpoint data (workstations, laptops, mobile)
    - Network devices (firewalls, routers, switches)
    - Cloud storage and SaaS systems
    - Backup systems
 
-### Chain of Custody
+## 🔗 Chain of Custody
 
 **Documentation Requirements**:
 - What was seized/preserved
@@ -42,7 +41,7 @@ This document provides guidance on preserving digital evidence for forensic inve
 - Document all access and modifications
 - Use write-blocker devices for physical storage
 
-## Forensic Investigation Process
+## 📁 Forensic Investigation Phases
 
 ### Phase 1: Preservation (0-24 hours)
 - Preserve affected systems
@@ -64,9 +63,7 @@ This document provides guidance on preserving digital evidence for forensic inve
 - Prepare executive summary
 - Submit to legal and regulators
 
-## Documentation Standards
-
-### Forensic Report Contents
+## 📄 Forensic Report Contents
 
 1. **Executive Summary**
    - Overview of incident
@@ -90,40 +87,30 @@ This document provides guidance on preserving digital evidence for forensic inve
    - Artifact descriptions
    - Raw data and logs
 
-## Regulatory Cooperation
+## 🚀 Regulatory Cooperation
 
-### Law Enforcement Coordination
-
-- Notify law enforcement if crimes suspected
-- Coordinate evidence preservation with authorities
+**Law Enforcement**:
+- Notify if crimes suspected
+- Coordinate evidence preservation
 - Provide forensic images to investigators
 - Maintain attorney-client privilege where possible
 
-### Regulatory Investigations
-
+**Regulatory Investigations**:
 - Provide forensic reports to regulators
 - Respond to information requests
 - Provide witness statements
 - Maintain documentation integrity
 
-## Cloud & Third-Party Systems
+## ☁ Cloud & Third-Party Systems
 
-### Data Preservation
-
+**Data Preservation**:
 - Request evidence preservation from service providers
 - Obtain access logs from cloud platforms
 - Document all requests and responses
 - Obtain certification of non-destruction
 
-### Cross-Border Considerations
-
+**Cross-Border Considerations**:
 - Understand jurisdiction restrictions
 - Comply with data localization requirements
 - Coordinate with international partners
 - Document regulatory coordination
-
----
-
-**Last Updated**: January 2026
-
-**Version**: 1.0
